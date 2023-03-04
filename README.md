@@ -11,7 +11,7 @@
 - 모르겠습니다
 
 ## 배포 링크
-![링크](https://ohwphil.github.io/test_site)
+<a href="https://ohwphil.github.io/test_site">링크</a>
 
 ## 팀원
 
